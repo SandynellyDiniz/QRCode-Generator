@@ -1,4 +1,4 @@
-<h2 align="center">QR Code Generator</h2>
+<h2>QR Code Generator</h2>
 
 <h3 align="center">Technologies Used In The Project:</h3>
 
