@@ -1,6 +1,6 @@
 <h2>QR Code Generator</h2>
 
-<h3>Technologies Used In The Project :</h3>
+<h3>Tech Used :</h3>
 
 <ul>
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
