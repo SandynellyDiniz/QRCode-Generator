@@ -1,6 +1,8 @@
-<h2>QR Code Generator</h2>
+<h2 align="center">QR Code Generator
 
-![Image](https://github.com/user-attachments/assets/adbaef45-ba18-4930-99f8-addb5cad2aea)
+<br>![Image](https://github.com/user-attachments/assets/adbaef45-ba18-4930-99f8-addb5cad2aea)
+
+</h2>
 
 <h3>Tech Used :</h3>
 
