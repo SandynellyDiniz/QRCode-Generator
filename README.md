@@ -19,5 +19,3 @@
 <h2 align="center">After entering a URL:</h2>
 
 ![Captura de tela 2024-05-18 212545](https://github.com/SandynellyDiniz/QRCode-Generator/assets/160080540/4ffeb528-239c-4474-8bf7-76a55b53d818)
-
-
