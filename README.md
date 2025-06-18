@@ -1,11 +1,5 @@
-<h2 align="center">QR Code Generator
-
-<br>![Image](https://github.com/user-attachments/assets/adbaef45-ba18-4930-99f8-addb5cad2aea)
-
-</h2>
 
 <h3>Tech Used :</h3>
-
 <ul>
   <img align="center" alt="SD-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
